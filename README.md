@@ -1,0 +1,34 @@
+# Hi, I'm Dmitrii
+
+**19+ years in software development**
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+> 10 years as CTO, 30-person team, dozens of shipped projects. Now also indie hacking. Building microservices, B2B and e-commerce solutions.
+
+## What I Do
+
+- **Microservices** — high-load distributed systems in Go & Laravel
+- **E-commerce** — large-scale stores: delivery, payments, search, data sync
+- **B2B / B2C platforms** — CRMs, customer portals, infrastructure integrations, finance, real estate
+- **Team leadership** — 30+ engineers, project management, client communication
+
+## Indie Projects
+
+- **[SkreenMe](https://github.com/levskiy0/skreenme)** — Screenshot beautifier for macOS. Lives in the menu bar. Capture, style, share.
+- **[laravel-long-polling](https://github.com/levskiy0/laravel-long-polling)** — Laravel Long-Polling package for real-time updates without WebSockets
+- **[go-laravel-long-polling](https://github.com/levskiy0/go-laravel-long-polling)** — High-performance Go server for Laravel Long-Polling
+
+## Connect
+
+[![Email](https://img.shields.io/badge/-40x.Pro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:40x.Pro@gmail.com)
+[![X](https://img.shields.io/badge/-@levskiy__d-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/levskiy_d)
+[![Threads](https://img.shields.io/badge/-@d.levsky-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@d.levsky)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/levskiy0)
