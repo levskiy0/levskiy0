@@ -11,20 +11,33 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-> 10 years as CTO, 30-person team, dozens of shipped projects. Now also indie hacking. Building microservices, B2B and e-commerce solutions.
+## About
+
+19 years in software development, 10 of them as CTO leading a team of 30.
+
+Started writing code as a teenager, went through the full stack — from solo freelancing to managing large distributed teams and complex client projects. Shipped dozens of high-load systems across multiple industries: e-commerce platforms with delivery, payments, search and data synchronization; B2B services, CRMs, customer portals, monitoring systems for construction, finance, healthcare and real estate.
+
+Beyond engineering — hiring and growing teams, conducting 100+ technical interviews, mentoring junior developers, lecturing CS students, supervising internships. Managing projects end to end: from first client call to production deployment. Stress-tested by years of tight deadlines, shifting requirements and production incidents - staying calm is part of the job.
+
+Now channeling all of that into indie products and open source.
 
 ## What I Do
 
 - **Microservices** — high-load distributed systems in Go & Laravel
 - **E-commerce** — large-scale stores: delivery, payments, search, data sync
 - **B2B / B2C platforms** — CRMs, customer portals, infrastructure integrations, finance, real estate
-- **Team leadership** — 30+ engineers, project management, client communication
+- **Team & people** — 30+ engineers, hiring, mentoring, project management, client communication
 
-## Indie Projects
+## Side Projects
 
 - **[SkreenMe](https://github.com/levskiy0/skreenme)** — Screenshot beautifier for macOS. Lives in the menu bar. Capture, style, share.
+- **[m3m](https://github.com/levskiy0/m3m)** — Write logic in the browser, hit Save, walk away. No Docker, no Composer, no NPM.
+- **[FARS](https://github.com/levskiy0/FARS)** — Friendly asset resize server
 - **[laravel-long-polling](https://github.com/levskiy0/laravel-long-polling)** — Laravel Long-Polling package for real-time updates without WebSockets
 - **[go-laravel-long-polling](https://github.com/levskiy0/go-laravel-long-polling)** — High-performance Go server for Laravel Long-Polling
+- **[go-cache](https://github.com/levskiy0/go-cache)** — In-memory and Redis cache for Go
+- **[go-queue](https://github.com/levskiy0/go-queue)** — Queue driver from Goravel
+- **[fbpushd](https://github.com/levskiy0/fbpushd)** — Minimalist Firebase push notification micro-server
 
 ## Connect
 
