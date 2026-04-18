@@ -13,7 +13,7 @@
 
 ## About
 
-19 years in software development, 10 of them as CTO leading a team of 30.
+19 years in software development, 10 of them as tech leading a team of 30.
 
 Started writing code as a teenager, went through the full stack — from solo freelancing to managing large distributed teams and complex client projects. Shipped dozens of high-load systems across multiple industries: e-commerce platforms with delivery, payments, search and data synchronization; B2B services, CRMs, customer portals, monitoring systems for construction, finance, healthcare and real estate.
 
