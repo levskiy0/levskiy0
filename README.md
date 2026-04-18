@@ -42,5 +42,4 @@ Now channeling all of that into indie products and open source.
 
 [![Email](https://img.shields.io/badge/-40x.Pro@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:40x.Pro@gmail.com)
 [![X](https://img.shields.io/badge/-@levskiy__d-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/levskiy_d)
-[![Threads](https://img.shields.io/badge/-@d.levsky-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@d.levsky)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/levskiy0)
