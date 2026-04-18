@@ -31,7 +31,6 @@ Now channeling all of that into indie products and open source.
 ## Side Projects
 
 - **[SkreenMe](https://github.com/levskiy0/skreenme)** — Screenshot beautifier for macOS. Lives in the menu bar. Capture, style, share.
-- **[m3m](https://github.com/levskiy0/m3m)** — Write logic in the browser, hit Save, walk away. No Docker, no Composer, no NPM.
 - **[FARS](https://github.com/levskiy0/FARS)** — Friendly asset resize server
 - **[laravel-long-polling](https://github.com/levskiy0/laravel-long-polling)** — Laravel Long-Polling package for real-time updates without WebSockets
 - **[go-laravel-long-polling](https://github.com/levskiy0/go-laravel-long-polling)** — High-performance Go server for Laravel Long-Polling
